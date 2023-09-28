@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.page{
+    display: flex;
+        justify-content: space-around;
+        margin: 20px;
+}
+.title {
+    font-weight: lighter;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    
+}
+
+a{
+    color: #007185;
+    text-decoration: underline;
+}
+
+.margin{
+    margin: 15px;
+}
+
+p{
+    font-size: large;
+}
